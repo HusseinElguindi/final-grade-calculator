@@ -12,8 +12,7 @@
         "type": "image/png"
       }],
     "lang": "en-US",
-    "scope": "/final-grade-calculator",
-    "start_url": "/index.html",
+    "start_url": "/final-grade-calculator/index.html",
     "display": "standalone",
     "background_color": "#4285f4",
     "theme_color": "#4285f4",
